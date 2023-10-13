@@ -1,1 +1,2 @@
 Branch A
+Branch B
